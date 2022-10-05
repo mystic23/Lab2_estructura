@@ -1,0 +1,190 @@
+Neighborhood,School,Gym,Bar,Shop,Park
+Adela de Char.,0,0,0,1,0
+Adelita de Char Etp. 2,1,0,1,1,0
+Altamira.,1,1,0,1,1
+Altos de Riomar.,1,1,1,0,1
+Altos del Limón.,0,0,1,0,1
+Altos del Prado.,0,0,0,1,1
+Andalucía.,0,1,1,0,0
+Buenavista.,1,0,1,1,1
+El Castillo I.,0,1,0,1,1
+El Golf.,0,1,1,1,1
+El Limoncito.,1,1,0,1,0
+El Poblado.,0,1,1,1,1
+Eduardo Santos.,0,1,0,1,0
+La Castellana.,1,1,0,1,0
+La Floresta.,0,1,1,0,1
+Las Flores.,0,0,0,0,0
+Las Tres Avemarías.,0,0,0,0,0
+Miramar.,1,1,1,1,1
+Paraíso.,0,0,0,1,0
+Riomar.,1,0,0,1,1
+San Marino.,1,0,0,1,1
+San Salvador.,1,0,0,1,1
+San Vicente.,0,0,0,1,0
+Santa Mónica.,1,0,1,0,0
+Siape.,1,1,1,0,0
+Solaire.,1,1,0,0,0
+Urbanización Eduardo santos la playa.,1,1,0,1,0
+Villa Campestre.,0,1,0,1,1
+Villa Carolina.,0,1,0,1,0
+Villa del Este.,0,1,0,1,0
+Villa Santos.,0,1,1,1,0
+Villamar.,0,0,1,1,1
+Villas del Puerto.,1,0,0,1,1
+América.,0,1,0,0,0
+Barlovento.,0,0,0,0,0
+Barranquillita.,0,0,0,0,0
+Barrio Abajo.,0,1,1,0,0
+Bellavista.,1,0,1,1,1
+Betania.,1,0,1,0,1
+Boston.,1,0,1,1,0
+Campo Alegre.,0,1,0,0,0
+Centro.,0,1,1,1,0
+Ciudad Jardín.,1,1,0,0,0
+Colombia.,0,0,0,0,1
+El Boliche.,0,0,1,0,1
+El Castillo.,0,0,1,0,1
+El Porvenir.,0,0,0,1,0
+El Prado.,0,1,0,0,0
+El Recreo.,0,0,1,1,1
+El Rosario.,0,1,0,0,0
+El Tabor.,1,0,1,1,0
+Granadillo.,0,1,0,0,1
+Zona Industrial Vía 40.,1,0,1,1,0
+La Bendición de Dios.,0,1,0,1,1
+La Campiña.,0,1,1,0,1
+La Concepción.,1,1,0,1,0
+La Cumbre.,1,1,0,1,1
+La Felicidad.,0,0,0,1,0
+La Loma.,1,1,0,1,1
+Las Colinas.,0,0,1,1,0
+Las Delicias.,1,1,1,0,1
+Las Mercedes.,0,0,0,0,0
+Los Alpes.,1,1,0,0,1
+Los Jobos.,1,0,1,1,1
+Los Nogales.,1,0,0,1,0
+Miramar.,1,0,0,1,0
+Modelo.,1,1,0,1,0
+Montecristo.,0,0,0,0,1
+Nuevo Horizonte.,0,1,1,0,0
+Paraíso.,1,1,1,0,1
+Parque Rosado.,0,0,1,0,1
+San Francisco.,1,0,0,1,0
+Santa Ana.,0,1,1,1,1
+Villa Country.,1,1,0,0,0
+Villa Tarel.,1,0,0,0,1
+Villanueva.,1,1,0,1,1
+7 de Abril.,1,1,1,1,0
+20 de Julio.,0,1,1,0,1
+Buenos Aires.,0,1,0,0,1
+Carrizal.,0,0,1,0,1
+Cevillar.,0,1,0,0,1
+Ciudadela 20 de Julio.,0,1,0,0,1
+El Santuario.,1,0,1,0,1
+Kennedy.,0,1,1,1,1
+La Sierra.,1,0,1,1,0
+La Sierrita.,0,1,0,1,1
+La Victoria.,0,0,0,1,0
+Las Américas.,1,1,0,1,1
+Las Cayenas.,1,0,1,0,0
+Las Gardenias.,1,1,1,1,1
+Las Granjas.,0,1,1,1,1
+Los Continentes.,0,1,0,0,1
+Los Girasoles.,1,0,1,0,1
+San José.,0,0,0,1,1
+San Luis.,1,1,1,1,1
+Santa María.,1,0,0,1,1
+Santo Domingo de Guzmán.,0,1,0,0,0
+Villa San Carlos.,1,1,0,1,1
+Villa San Pedro I.,0,0,1,0,1
+Villa San Pedro II.,1,1,0,1,0
+Villa Sevilla.,1,1,0,1,0
+7 de Agosto.,0,0,1,1,1
+Bernando Hoyos,0,0,0,0,0
+Buena Esperanza.,1,0,1,0,0
+California.,1,1,0,0,0
+Caribe Verde.,1,0,0,0,1
+Carlos Meisel.,1,1,1,0,0
+Cevillar.,0,1,1,1,0
+Chiquinquirá.,0,1,1,0,0
+Ciudad Modesto.,0,0,0,1,1
+Colina Campestre.,0,1,1,1,0
+Cordialidad.,0,0,0,1,1
+Corrigimiento Juan Mina.,1,0,0,0,1
+Cuchilla de Villate.,1,0,1,1,1
+El Bosque.,0,0,0,1,1
+El Carmen.,0,0,0,1,1
+El Edén 2000.,0,0,0,1,0
+El Golfo.,1,1,0,0,1
+El Pueblo.,1,0,0,1,0
+El Recreo.,1,0,0,1,0
+El Romance.,1,0,1,1,1
+El Rubí.,0,0,0,0,1
+El Silencio.,0,1,0,0,0
+El Valle.,0,1,1,0,0
+Evaristo Sourdis.,0,0,0,0,0
+Kalamary.,1,0,1,1,1
+La Ceiba.,1,1,1,1,0
+La Esmeralda.,1,1,0,0,0
+La Florida.,1,0,0,1,0
+La Gloria.,1,1,0,0,1
+La Libertad.,1,1,0,1,0
+La Manga.,1,1,0,1,1
+La Paz.,1,1,0,1,1
+La Pradera.,0,0,1,1,0
+La Sierra.,0,1,0,0,1
+Las Colinas.,0,0,0,1,0
+Las Estrellas.,0,0,1,1,1
+Las Malvinas.,1,0,1,0,0
+Las Mercedes Sur.,1,0,0,0,1
+Las Terrazas.,1,1,0,1,1
+Lipaya.,0,1,0,1,0
+Loma Fresca.,0,0,0,0,1
+Los Andes.,1,0,1,1,1
+Los Olivos I.,1,0,0,0,0
+Los Olivos II.,1,1,0,1,1
+Los Pinos.,1,0,0,0,0
+Los Rosales.,0,0,0,1,0
+Lucero,0,0,1,0,0
+Mequejo.,0,0,0,0,0
+Olaya,0,1,1,0,1
+San Felipe,0,1,1,1,1
+San Isidro,1,1,1,0,0
+El Por Fin,1,0,0,1,0
+Alfonso López,0,1,1,0,0
+Atlántico.,0,0,1,0,1
+Bella Arena.,0,1,1,0,1
+Boyacá.,1,0,1,1,1
+Chiquinquirá.,0,0,1,1,0
+El Campito.,0,1,1,0,1
+El Limón.,1,1,1,0,0
+El Milagro.,0,1,1,1,1
+José Antonio Galán.,0,1,1,1,1
+La Alboraya.,1,1,0,0,1
+La Chinita.,1,1,0,0,1
+La Luz.,1,0,0,0,1
+La Magdalena.,0,1,0,1,1
+La Unión.,1,1,1,0,1
+La Victoria.,1,1,0,1,0
+Las Dunas.,0,1,1,0,1
+Las Nieves.,0,0,0,1,1
+Las Palmas.,1,0,1,0,1
+Las Palmeras.,0,1,0,1,1
+Los Laureles.,1,1,0,1,1
+Los Trupillos.,1,0,1,1,1
+Moderno.,0,1,1,0,1
+Montes.,0,1,0,1,1
+Pasadena.,1,0,1,0,1
+Primero de Mayo.,1,0,1,1,1
+Rebolo.,0,1,1,1,1
+San José.,0,0,1,0,1
+San Nicolás.,0,1,0,1,0
+San Roque.,0,1,0,0,1
+Santa Helena.,0,0,0,0,0
+Simón Bolívar.,0,0,1,0,0
+Tayrona.,1,1,1,1,1
+Universal I y II.,0,1,0,0,1
+Villa Blanca.,0,1,1,1,1
+Villa del Carmen.,0,1,1,1,1
+Zona Franca.,0,1,1,0,1
